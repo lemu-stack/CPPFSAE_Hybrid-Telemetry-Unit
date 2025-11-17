@@ -1,5 +1,5 @@
 # CPPFSAE_Hybrid-Telemetry-Unit
-This repository contains a complete telemetry pipeline designed for Formula SAE applications, developed on the Raspberry Pi 5.
+This repository contains a complete telemetry pipeline designed for Formula SAE or automotive applications, developed on the Raspberry Pi 5.
 
 The system utilizes telemetry data from the vehicle's CAN bus, processes it on-device, and/or optionally forwards it to a cloud backend for deeper analytics and long-term logging. Real-time data is streamed using MQTT and WebSockets for dashboards, monitoring tools, and development testing. Supports hybrid edge–cloud and MQTT-WebSocket switching based on network conditions
 
