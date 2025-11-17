@@ -5,5 +5,5 @@ The system reads telemetry data from the CAN bus, processes it on-device, and/or
 
 © 2025 Justin Sov  
 Affiliation: CPPFSAE / California Polytechnic State University, Pomona  
-Senior Project Advisor: Valerio Formicola  
+Project Advisor: Valerio Formicola  
 Licensed under the Apache License 2.0  
