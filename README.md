@@ -1,2 +1,3 @@
 # CPPFSAE_Hybrid-Telemetry-Unit
-A modular FSAE telemetry system using a Raspberry Pi 5 for CAN bus data acquisition, edge processing, and optional cloud analytics. Supports real-time streaming via MQTT and WebSocket, with logging, latency testing, and adaptive edge/cloud operation.
+This repository contains a complete telemetry pipeline designed for Formula SAE applications, developed on the Raspberry Pi 5.
+The system reads telemetry data from the CAN bus, processes it on-device, and/or optionally forwards it to a cloud backend for deeper analytics and long-term logging. Real-time data is streamed using MQTT and WebSockets for dashboards, monitoring tools, and development testing. Supports hybrid edge–cloud and MQTT-WebSocket switching based on network conditions
